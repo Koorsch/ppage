@@ -9,7 +9,7 @@ export default function KooNav() {
               </KooButton>
               <KooButton href="#cv">CV</KooButton>
               <KooButton href="#projects">Projects</KooButton>
-              <KooButton href="#about">About</KooButton>
+              <KooButton href="#contact">Contact</KooButton>
             </div>
               <div className="inline-flex gap-x-6 pl-4 pr-2 items-center">
                 <a href="https://www.linkedin.com/in/andreas-ekvall-hofvander-216130151/" target="_blank" className="hover:invert-50">
