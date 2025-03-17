@@ -26,11 +26,11 @@ export default function NewLanding() {
           </div>
             <button onClick={burgerIt}>Burger {burger ? "Open" : "Closed"}</button>
             <h2>Menu</h2>
-            <div className="mobile_nav" className="absolute w-full z-50 top-0 left-0 items-center">
+            {/* <div className="mobile_nav" className="absolute w-full z-50 top-0 left-0 items-center">
               <a href="#" about="Some of my stuff">CV</a>
               <a href="#" about="Some of my stuff">Projects</a>
               <a href="#" about="Some of my stuff">About</a>
-            </div>
+            </div> */}
         </nav>
       </header>
       <KooNav />
